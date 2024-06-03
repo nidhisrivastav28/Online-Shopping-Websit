@@ -1,4 +1,5 @@
-#Online Shopping Made Easy
+# Online Shopping Made Easy
+
 Welcome to [Your Shop Name], the ultimate online platform designed to revolutionize the way you shop online. Our innovative platform provides a centralized hub for browsing, viewing, and purchasing products, making the shopping process more efficient and enjoyable. Whether you're looking to buy the latest products or explore various categories, [Your Shop Name] is your go-to solution.
 
 This project is a comprehensive e-commerce application designed for online shopping. It utilizes WordPress, WooCommerce, HTML, CSS, JavaScript, and PHP to provide a user-friendly and effective shopping experience. With features like user account creation, product variations, and cash on delivery, [Your Shop Name] ensures that your shopping experience is seamless and enjoyable.
