@@ -28,17 +28,17 @@ This project is a comprehensive e-commerce application designed for online shopp
 
 ##Usage
 
-Open the website in a web browser.
-Register and create a user profile to start shopping.
-Browse products: View and select from a variety of products available.
-Place an order: Add products to the cart and proceed to checkout, choosing Cash on Delivery if desired.
-Apply coupon: Use the 20% discount coupon on your first purchase.
+- Open the website in a web browser.
+- Register and create a user profile to start shopping.
+- Browse products: View and select from a variety of products available.
+- Place an order: Add products to the cart and proceed to checkout, choosing Cash on Delivery if desired.
+- Apply coupon: Use the 20% discount coupon on your first purchase.
 
 ##Dependencies
 
-WordPress (vX.X.X): Link to WordPress
-WooCommerce (vX.X.X): Link to WooCommerce
-Bootstrap (vX.X.X): Link to Bootstrap (if used for additional styling)
+- WordPress (vX.X.X): Link to WordPress
+- WooCommerce (vX.X.X): Link to WooCommerce
+- Bootstrap (vX.X.X): Link to Bootstrap (if used for additional styling)
 
 ## Contributing
 
